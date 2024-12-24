@@ -1,4 +1,0 @@
-2024-12-24 11:15:26.226086, s, ssss@jaaahj, Rp10000, Transfer Bank, mm
-2024-12-24 13:00:03.698746, aa, aaa, Rp10000, Transfer Bank, 
-2024-12-24 13:27:26.094174, ;iuyt, asdad, Rp10000, Transfer Bank, asd
-2024-12-24 13:30:03.474751, asss, akakajsaj, Rp130000, Transfer Bank, m
